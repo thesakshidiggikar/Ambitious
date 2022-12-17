@@ -1,0 +1,40 @@
+.cards{
+ background-color: rgb(218, 213, 213);
+  width:923px;
+  left: 253px;
+  border-radius: 12px;
+
+  margin: 23px 12px;
+  box-shadow: 200px;
+  justify-content: center;
+  /* text-align: center; */
+}
+
+.cards img{
+    width: 823px;
+    height: 243px;
+    object-fit: cover;
+    align-items: center;
+    margin-left: 33px;
+    justify-content: center;
+}
+.cards #myBtn{
+    background-color: rgb(99, 172, 214);
+    color: black;
+    margin-left: 40px;
+    border-radius: 12px;
+    margin-bottom: 12px;
+    height: 33px;
+    width:120px
+}
+.cards h2{
+    margin-top: 12px;
+    margin-left: 23px;
+    font-weight: bold;
+}
+.p{
+    margin-left: 23px;
+}
+.ol{
+text-align: left;
+}
